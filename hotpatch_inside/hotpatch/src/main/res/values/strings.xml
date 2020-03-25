@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">HotPatch_Inside_Demo</string>
+    <string name="hotpatch">热修复</string>
+    <string name="mock_need_hotpatch">模拟需要被热修复的点击事件</string>
+    <string name="mock_need_hotpatch_tip">热修复会修复该按钮的点击事件里面的代码逻辑</string>
+    <string name="trigger_hotpatch_dynamic_release">触发热修复部署检测</string>
+    <string name="trigger_hotpatch_dynamic_release_tip">通常情况下，建议开发者在MockLauncherApplicationAgent的postInit中触发热修复部署检测</string>
+    <string name="notice">注意：\n使用热修复时，开发者需要确认加密图片已经正确生成，否则hotpatch包将无法正常下发。</string>
+</resources>
