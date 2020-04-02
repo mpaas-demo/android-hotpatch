@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.alipay.android.phone.mobilesdk:framework-build:5.0.0.238@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e66d28a856b957efd85a88a517d78107/framework-build-5.0.0.238/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e66d28a856b957efd85a88a517d78107/framework-build-5.0.0.238/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

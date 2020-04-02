@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.alipay.android.phone.mobilesdk:transport-build:5.0.0.234@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ac78cb3b4c8de6d5266c7874ea860122/transport-build-5.0.0.234/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ac78cb3b4c8de6d5266c7874ea860122/transport-build-5.0.0.234/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

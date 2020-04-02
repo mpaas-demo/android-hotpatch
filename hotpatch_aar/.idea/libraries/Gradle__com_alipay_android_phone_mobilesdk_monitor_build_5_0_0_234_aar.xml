@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.alipay.android.phone.mobilesdk:monitor-build:5.0.0.234@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/19dec83c6d267e16ed4dd7be25dc8b08/monitor-build-5.0.0.234/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/19dec83c6d267e16ed4dd7be25dc8b08/monitor-build-5.0.0.234/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

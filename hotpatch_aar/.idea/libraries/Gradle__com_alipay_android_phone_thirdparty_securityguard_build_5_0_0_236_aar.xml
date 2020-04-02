@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.alipay.android.phone.thirdparty:securityguard-build:5.0.0.236@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3391108c2d69f66e14d64f05740ed47b/securityguard-build-5.0.0.236/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3391108c2d69f66e14d64f05740ed47b/securityguard-build-5.0.0.236/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

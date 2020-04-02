@@ -1,0 +1,2 @@
+include ':hotpatch-build'
+project(':hotpatch-build').projectDir = new File('hotpatch')

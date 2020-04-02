@@ -12,12 +12,14 @@ android {
             keyPassword 'mpaas123'
             storeFile file('mpaas_keystore.jks')
             storePassword 'mpaas123'
+            v2SigningEnabled false
         }
         debug {
             keyAlias 'mpaas123'
             keyPassword 'mpaas123'
             storeFile file('mpaas_keystore.jks')
             storePassword 'mpaas123'
+            v2SigningEnabled false
         }
     }
 
