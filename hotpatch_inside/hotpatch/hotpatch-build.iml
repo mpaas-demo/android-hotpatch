@@ -91,17 +91,18 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 23 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:framework-build:2.6.2.200323184446:api@jar" level="project" />
-    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:logging-build:2.1.0.200324191304:api@jar" level="project" />
-    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:logging-build:2.1.0.200324191304:util@jar" level="project" />
-    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:logging-build:2.1.0.200324191304:tianyan@jar" level="project" />
-    <orderEntry type="library" name="Gradle: com.alipay.android.phone.thirdparty:androidsupport-build:13.23.2.190411102558:androidsupport-annotation@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.mpaas.adapter:metainfo:1.0.0.190819190628:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.android.support:support-annotations:28.0.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.mpaas.framework.adapter:mpaasadapter-build:1.0.0.1812031248:api@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.alipay.android.phone.wallet:antui-build:10.1.50.200302102130:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:framework-build:2.6.2.200323184446:api@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:quinox-build:2.6.2.200228154117:multidex@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:quinox-build:2.6.2.200228154117:util@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:quinox-build:2.6.2.200228154117:api@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:quinox-build:2.6.2.200228154117:core@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:logging-build:2.1.0.200324191304:util@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:logging-build:2.1.0.200324191304:api@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:logging-build:2.1.0.200324191304:tianyan@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:rpc-build:1.8.5.200228173401:api@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:transport-build:1.8.5.200319181707:api@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.alipay.android.phone.mobilesdk:netsdkextdependapi-build:1.0.1.190620165649:api@jar" level="project" />
@@ -126,7 +127,6 @@
     <orderEntry type="library" name="Gradle: com.mpaas.mas.adapter:mpaasmasadapter-build:1.2.0.200228192135:api@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.mpaas.privacypermission:privacypermission-build:1.0.0.200228173401:api@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.mpaas.framework.adapter:mpaasframeworkadapter-build:1.0.0.190906163910:api@jar" level="project" />
-    <orderEntry type="library" name="Gradle: com.android.support:support-annotations:26.0.0-alpha1@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-v4:26.0.0-alpha1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-media-compat:26.0.0-alpha1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-fragment:26.0.0-alpha1@aar" level="project" />
